@@ -1,7 +1,5 @@
 package boardgame;
 
-import java.util.ArrayList;
-
 public class Piece {
 	protected Position position;
 	private Board board;
