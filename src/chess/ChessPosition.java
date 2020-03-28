@@ -34,6 +34,4 @@ public class ChessPosition {
 	public String toString() {
 		return "" + column + row;
 	}
-	
-	
 }
